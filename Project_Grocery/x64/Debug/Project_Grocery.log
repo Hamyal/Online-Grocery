@@ -1,0 +1,17 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Project_Grocery.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+C:\Users\hami7\Downloads\FINALOOP\Project_Grocery\Project_Grocery\Inventory_Isl.h(57,16): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\hami7\Downloads\FINALOOP\Project_Grocery\Project_Grocery\Inventory_Kar.h(57,16): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\hami7\Downloads\FINALOOP\Project_Grocery\Project_Grocery\Inventory_Lah.h(57,16): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\hami7\Downloads\FINALOOP\Project_Grocery\Project_Grocery\Product_Catalogue.h(61,16): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\hami7\Downloads\FINALOOP\Project_Grocery\Project_Grocery\Product_Catalogue.h(97,16): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\hami7\Downloads\FINALOOP\Project_Grocery\Project_Grocery\Product_Catalogue.h(133,16): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\hami7\Downloads\FINALOOP\Project_Grocery\Project_Grocery\Product_Catalogue.h(677,25): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\hami7\Downloads\FINALOOP\Project_Grocery\Project_Grocery\Product_Catalogue.h(810,26): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\hami7\Downloads\FINALOOP\Project_Grocery\Project_Grocery\Product_Catalogue.h(942,25): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\hami7\Downloads\FINALOOP\Project_Grocery\Project_Grocery\Customer.h(65): warning C4715: 'Customer::SaveObject': not all control paths return a value
+C:\Users\hami7\Downloads\FINALOOP\Project_Grocery\Project_Grocery\Admin.h(143): warning C4715: 'Admin::SaveObject_admin': not all control paths return a value
+C:\Users\hami7\Downloads\FINALOOP\Project_Grocery\Project_Grocery\Manager.h(336): warning C4715: 'Manager::SaveObject_manager': not all control paths return a value
+C:\Users\hami7\Downloads\FINALOOP\Project_Grocery\Project_Grocery\Manager.h(368): warning C4715: 'Manager::SaveObject_manager1': not all control paths return a value
+C:\Users\hami7\Downloads\FINALOOP\Project_Grocery\Project_Grocery\Manager.h(400): warning C4715: 'Manager::SaveObject_manager2': not all control paths return a value
+  Project_Grocery.vcxproj -> C:\Users\hami7\Downloads\FINALOOP\Project_Grocery\x64\Debug\OOPFINALPROJECT.exe
